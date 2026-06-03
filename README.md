@@ -37,7 +37,7 @@ python --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/basantjangra79/Project-2-Number-Guessing-Game.git
 ```
 
 Navigate to the project directory:
